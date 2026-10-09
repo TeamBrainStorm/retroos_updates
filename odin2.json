@@ -1,3 +1,14 @@
 {
-  "response": []
+  "response": [
+    {
+      "datetime": 1791581919,
+      "filename": "RetroOS-1.0-20261009-v21-odin2.zip",
+      "id": "e0b1d1216e83de169b283e8e4fa5ee21cb2ed486d214c0fd2666eb63567a4944",
+      "romtype": "RELEASE",
+      "size": 1438380139,
+      "url": "https://github.com/TeamBrainStorm/retroos_updates/releases/download/v21-20261009-odin2/RetroOS-1.0-20261009-v21-odin2.zip",
+      "version": "1.0-v21",
+      "changelog": "RetroOS v21: the first over-the-air update.\n- New: Settings > System > System updates. Check for updates, download with progress and pause/resume (Wi-Fi only if you like), automatic checksum and signature verification, then install in the background and restart when you're ready. It also checks once a day and notifies you.\n- The stock LineageOS Updater is gone. Updates now live in RetroOS Settings.\n- Controller fix in Settings: after you touch the screen, the first A press no longer hits Back. It brings the highlight back to the page's first item, and the next A selects it.\n- Recent highlights (v20): warm PSP-style sounds, rounded icons, the charging bolt and consistent pop-in/out animations.\n- Note: this release has only been tested on the emulator so far. Real-hardware results to follow."
+    }
+  ]
 }
