@@ -1,6 +1,16 @@
 {
   "response": [
     {
+      "datetime": 1792005956,
+      "filename": "RetroOS-1.0-20261014-v23-odin2portal.zip",
+      "id": "22408e1d8fcc8af0050bd680469ceb153e33046928ce1aa3d1d662f07c6ead5d",
+      "romtype": "RELEASE",
+      "size": 1484305018,
+      "url": "https://github.com/TeamBrainStorm/retroos_updates/releases/download/v23-20261014-odin2portal/RetroOS-1.0-20261014-v23-odin2portal.zip",
+      "version": "1.0-v23",
+      "changelog": "RetroOS v23: Steam on Home.\n- New: a Steam folder on Home, powered by DroidDeck. It lists the Steam games you have installed in DroidDeck and launches them straight from Home. When a game exits, you're back on Home.\n- First time: opening the Steam folder runs DroidDeck's one-time setup and Steam sign-in. After that, the folder opens straight to your games.\n- DroidDeck is included and installed automatically. It's a normal app you can update or remove.\n- New All Apps icon in the dock: a 3x3 dot grid with the centre dot in your accent color.\n- Note: this release has only been tested on the emulator so far. Real-hardware results to follow."
+    },
+    {
       "datetime": 1791583156,
       "filename": "RetroOS-1.0-20261009-v21-odin2portal.zip",
       "id": "90e5497bc9e7f215b7ba565fbc3dee49c2a8e75a9fa1b3f553e34c6a9962415d",
